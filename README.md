@@ -1,1 +1,2 @@
-# ChandanJyotiSarma_JS3_Lab
+# Weather-Application
+Displays the current weather of the city
